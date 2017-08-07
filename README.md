@@ -1,4 +1,4 @@
-# FuelPump_Shutoff
+# Arduino controlled fuel pumpdeactivation when driving on LPG
 **Simple Arduino Nano Shield for shutting off car fuel pump when driving on LPG (gas).**
 
 My fuel pump failed twice in three years because I mostly drive on LPG and forget to keep some gasoline in the tank. So I had to repace a fuel pump twice in three years :)
