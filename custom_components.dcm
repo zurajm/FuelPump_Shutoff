@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC337
+D 45V Vce, 0.8A Ic, NPN, SOT-23
+K BC817 BC337 Equivalent
+F http://www.fairchildsemi.com/ds/BC/BC817.pdf
+$ENDCMP
+#
+$CMP CNY74-2H
+D Dual DC Optocoupler, Vce 70V, CTR 60%, DIP-8
+K NPN DC Dual Optocoupler
+F http://www.vishay.com/docs/83526/83526.pdf
+$ENDCMP
+#
+#End Doc Library
